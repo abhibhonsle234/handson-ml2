@@ -1,3 +1,9 @@
+
+#### Reading the second edition of the book which i really liked for its first edition. I May skip over some content that i can recall easily. Will be pushing my excercise solutions and other implementations in this forked repo.
+
+##### Original readme ->
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Machine Learning Notebooks
 ==========================
 
