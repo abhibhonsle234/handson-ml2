@@ -1,5 +1,5 @@
 
-#### Reading the second edition of the book which i really liked for its first edition. I may skip over some content that i can recall easily. Will be pushing my excercise solutions and other implementations in this forked repo in the folder - **Chapterwise Solutions**
+#### Reading the second edition of the book which i really liked for its first edition. The objective is to revisit and revise all key concepts from scratch and learn some new ones too. I may skip over some content that i can recall easily. Will be pushing my excercise solutions and other implementations in this forked repo in the folder - **Chapterwise Solutions**
 
 ##### Original readme ->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
